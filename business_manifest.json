@@ -1,0 +1,37 @@
+{
+  "name": "MindMint",
+  "type": "saas",
+  "description": "MindMint is an innovative mental health and productivity tool that helps small businesses streamline their workflow while improving employees' mental well-being through personalized coaching sessions and AI-driven analytics.",
+  "generated_at": "2025-12-08T02:35:39.942138",
+  "components": [
+    "spec",
+    "build",
+    "deploy",
+    "spec_requirements",
+    "spec_architecture",
+    "build_code",
+    "build_test"
+  ],
+  "files_written": [
+    "businesses\\production_test\\saas\\mindmint\\src\\components\\component.tsx",
+    "businesses\\production_test\\saas\\mindmint\\__tests__\\component.test.tsx",
+    "businesses\\production_test\\saas\\mindmint\\vercel.json",
+    "businesses\\production_test\\saas\\mindmint\\src\\components\\requirements.tsx",
+    "businesses\\production_test\\saas\\mindmint\\__tests__\\architecture.test.tsx",
+    "businesses\\production_test\\saas\\mindmint\\vercel.json",
+    "businesses\\production_test\\saas\\mindmint\\src\\components\\test.tsx",
+    "businesses\\production_test\\saas\\mindmint\\src\\app\\layout.tsx",
+    "businesses\\production_test\\saas\\mindmint\\src\\app\\globals.css",
+    "businesses\\production_test\\saas\\mindmint\\src\\app\\page.tsx"
+  ],
+  "tasks_completed": 7,
+  "tasks_failed": 0,
+  "ap2_estimated_cost": 45.2,
+  "ap2_estimated_tokens": 19500,
+  "ap2_generation_approval": null,
+  "infrastructure_approvals": {
+    "analytics": null,
+    "database": null,
+    "storage": null
+  }
+}
